@@ -1,0 +1,7 @@
+[package]
+name = "far_to_cel"
+version = "0.1.0"
+authors = ["Erick Daniel Lozoya Rosas <34018215+ericklozoya@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
